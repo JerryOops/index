@@ -1,4 +1,4 @@
 ---
-title: Jiaqi Zhang's Home Page
+title: Jiaqi Zhang
 ---
 Hello everyone
