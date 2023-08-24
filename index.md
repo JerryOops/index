@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Jiaqi Zhang's Homepage
 ---
-Hello everyone
+Hello everyone!
