@@ -13,7 +13,7 @@ title: Jiaqi Zhang (张佳祺)
     As a CS student, my major interests include Computer Networks and Java Backend Development.
     Currently, I am seeking postgraduate education in fields like Computer Science or Software Engineering.
     </p>
-    My <a href="#">CV (PDF)</a> <br>
+    My <a href="https://github.com/JerryOops/index/blob/main/cv/CV-Zhang.pdf">CV (PDF)</a> <br>
     My <a href="https://github.com/JerryOops">GitHub</a> <br>
     My <a href="https://leetcode.cn/u/jerryoops-f/">leetcode</a> <br>
     <a href="mailto:jiaqi.lzu@gmail.com">jiaqi.lzu@gmail.com</a> <br> <br>
