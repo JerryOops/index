@@ -16,7 +16,7 @@ title: Jiaqi Zhang (张佳祺)
     My <a href="https://github.com/JerryOops/index/blob/main/cv/CV-Zhang.pdf">CV (PDF)</a> <br>
     My <a href="https://github.com/JerryOops">GitHub</a> <br>
     My <a href="https://leetcode.cn/u/jerryoops-f/">leetcode</a> <br>
-    <a href="mailto:jiaqi.lzu@gmail.com">jiaqi.lzu@gmail.com</a> <br> <br>
+    <a href="mailto:jiaqi.lzu@gmail.com">jiaqi.lzu@gmail.com</a> <br> <br> <br>
 </div>
 
 <div class="education_background">
@@ -32,7 +32,7 @@ title: Jiaqi Zhang (张佳祺)
             <ul>
                 <li><b>[Year 2020, 2021, 2022]</b> Lanzhou University Outstanding Student Third-Class Scholarship</li>
                 <li><b>[Year 2020]</b> Lanzhou University Diligence and Advancement Scholarship (<i>Awarded to one student in the department</i>)</li>
-                <li>[Year 2022] Career Motivation Scholarship of Shunde Intelligent Manufacturing (<i>Awarded to one student in the department</i>)</li>
+                <li><b>[Year 2022]</b> Career Motivation Scholarship of Shunde Intelligent Manufacturing (<i>Awarded to one student in the department</i>)</li>
             </ul>
         </li>
     </ul>
