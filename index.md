@@ -28,7 +28,7 @@ title: Jiaqi Zhang (张佳祺)
     <ul>
         <li>Lanzhou University is one of the <b><u>"Project 985" institutions</u></b>, which comprise the top universities of China.</li>
         <li>My 4-year weighted average score (of required and limited optional courses) is <b><u>89.35/100</u></b>, placing me within the <b><u>top 5%</u></b> in the department.</li>
-        <li>I have obtained <b><u>five</u></b> scholarships for four consecutive years: 
+        <li>I have obtained <b><u>five</u></b> scholarships throughout the four years: 
             <ul>
                 <li><b>[Year 2020, 2021, 2022]</b> Lanzhou University Outstanding Student Third-Class Scholarship</li>
                 <li><b>[Year 2020]</b> Lanzhou University Diligence and Advancement Scholarship (<i>Awarded to one student in the department</i>)</li>
